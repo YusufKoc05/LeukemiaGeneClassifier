@@ -33,6 +33,25 @@ Early and accurate differentiation of leukemia subtypes (**Acute Myeloid Leukemi
 
 ---
 
+## 📸 Application Screenshots (Clinical Interface Gallery)
+
+### 1. Main Clinical Decision Support Dashboard, Bio-Fingerprint Radar & Local SHAP (`Diagnosis & XAI`)
+![Main Clinical Decision Support Dashboard & Local SHAP](./assets/screenshots/screenshot_1.png)
+
+### 2. Multi-Class ROC-AUC, Calibration Curve, Confusion Matrix & Volcano Plot (`Model & Biostatistics`)
+![ROC-AUC, Calibration, Confusion Matrix & Volcano Plot](./assets/screenshots/screenshot_2.png)
+
+### 3. External Kaggle, NCBI GEO & Golub Multi-Center Benchmark Console (`112,259 Samples / 7 Cohorts`)
+![External Kaggle & GEO Benchmark Console](./assets/screenshots/screenshot_4.png)
+
+### 4. Cross-Cohort Performance Comparison Chart & Consolidated Benchmark Table
+![Cross-Cohort Performance Comparison Chart](./assets/screenshots/screenshot_5.png)
+
+### 5. Batch CSV Cohort Screening, Wasserstein Population Drift & Triage Module (`Screening & Reporting`)
+![Batch CSV Cohort Screening & Drift Module](./assets/screenshots/screenshot_3.png)
+
+---
+
 ## ✨ Key Features
 
 - **5-Tab Ergonomic Clinical Dashboard (`app.py`):**
