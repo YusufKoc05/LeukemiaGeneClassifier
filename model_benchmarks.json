@@ -1,0 +1,32 @@
+[
+  {
+    "Model Mimarisi": "Random Forest",
+    "Test Doğruluğu": "%95.00",
+    "Ağırlıklı F1-Skoru": "0.9500",
+    "5-Katlı Çapraz Doğrulama": "%96.7 (±%6.7)"
+  },
+  {
+    "Model Mimarisi": "SVM (RBF Kernel)",
+    "Test Doğruluğu": "%85.00",
+    "Ağırlıklı F1-Skoru": "0.8499",
+    "5-Katlı Çapraz Doğrulama": "%93.7 (±%5.6)"
+  },
+  {
+    "Model Mimarisi": "Neural Network (MLP)",
+    "Test Doğruluğu": "%46.67",
+    "Ağırlıklı F1-Skoru": "0.4587",
+    "5-Katlı Çapraz Doğrulama": "%55.3 (±%5.8)"
+  },
+  {
+    "Model Mimarisi": "XGBoost",
+    "Test Doğruluğu": "%100.00",
+    "Ağırlıklı F1-Skoru": "1.0000",
+    "5-Katlı Çapraz Doğrulama": "%96.3 (±%6.5)"
+  },
+  {
+    "Model Mimarisi": "LightGBM",
+    "Test Doğruluğu": "%100.00",
+    "Ağırlıklı F1-Skoru": "1.0000",
+    "5-Katlı Çapraz Doğrulama": "%98.0 (±%4.0)"
+  }
+]

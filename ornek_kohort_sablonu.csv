@@ -1,0 +1,9 @@
+Sample_ID,Age,WBC_x10k,Hemoglobin_g_dL,PLT_x10k,Blast_Percentage,LDH_U_L,MPO,CD34,RUNX1,FLT3,WT1,PAX5,CD19,IKZF1,Cytogenetics
+HASTA_001_AML,58,95.0,6.2,20.0,65.0,1100.0,10.8,9.5,11.8,12.5,11.2,6.0,5.5,5.0,"Karmaşık Karyotip (>=3 Anomali, Adverse)"
+HASTA_002_APL,34,25.0,7.8,18.0,60.0,750.0,11.5,5.2,8.2,6.5,7.8,6.2,6.2,6.5,t(15;17) PML::RARA (APL)
+HASTA_003_PED_ALL,7,65.0,8.2,45.0,70.0,620.0,4.5,9.8,6.2,6.2,6.2,12.0,12.5,6.5,t(12;21) ETV6::RUNX1 (Pediatrik Favorable)
+HASTA_004_PH_ALL,52,120.0,6.5,18.0,85.0,1200.0,4.8,10.2,6.5,6.5,6.2,11.8,12.5,2.0,t(9;22) BCR::ABL1 (Ph+ Yüksek Risk)
+HASTA_005_NORMAL,28,6.8,14.2,260.0,0.5,180.0,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,Normal Karyotip (Orta Risk)
+HASTA_006_NORMAL,32,7.2,13.8,240.0,0.8,195.0,6.2,6.4,6.3,6.4,6.2,6.6,6.4,6.3,Normal Karyotip (Orta Risk)
+HASTA_007_AML_RUNX1,62,80.0,7.5,28.0,50.0,950.0,10.2,8.8,11.5,10.8,10.5,5.8,5.6,5.2,t(8;21) RUNX1::RUNX1T1 (Favorable)
+HASTA_008_NORMAL,45,6.5,15.0,280.0,0.2,175.0,6.5,6.3,6.5,6.5,6.4,6.5,6.5,6.6,Normal Karyotip (Orta Risk)
