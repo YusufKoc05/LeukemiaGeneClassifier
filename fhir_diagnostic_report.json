@@ -1,12 +1,12 @@
 {
   "resourceType": "Bundle",
   "type": "document",
-  "timestamp": "2026-11-04T17:40:43.179805+00:00",
+  "timestamp": "2026-11-26T14:19:16.299490+00:00",
   "entry": [
     {
       "resource": {
         "resourceType": "DiagnosticReport",
-        "id": "diag-rep-20261104204043",
+        "id": "diag-rep-20261126171916",
         "status": "final",
         "conclusion": "Ön Tanı: Healthy | Kohort: Erişkin (>=18) | Risk: Normal / Düşük Risk | Sitogenetik: Normal Karyotip (Orta Risk) | Conformal: Healthy | OOD: Uyumlu (İç Kohort) | Güven: %80.2",
         "presentedForm": [

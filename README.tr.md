@@ -36,19 +36,19 @@ Hematolojik malignitelerin başında gelen löseminin alt tiplerinin (**Akut Miy
 ## 📸 Uygulama Ekran Görüntüleri (Klinik Karar Destek Arayüzü)
 
 ### 1. Ana Klinik Karar Destek Panosu, Moleküler Biyo-Parmak İzi Radar ve Lokal SHAP (`Teşhis ve XAI`)
-![Ana Klinik Karar Destek Panosu ve Lokal SHAP](./assets/screenshots/screenshot_1.png)
+![Ana Klinik Karar Destek Panosu ve Lokal SHAP](./assets/screenshots/01_clinical_dashboard_shap_xai.png)
 
 ### 2. Çok Sınıflı ROC-AUC, Kalibrasyon Eğrisi, Karmaşıklık Matrisi ve Volcano Grafiği (`Model ve İstatistik`)
-![ROC-AUC, Kalibrasyon, Karmaşıklık Matrisi ve Volcano Grafiği](./assets/screenshots/screenshot_2.png)
+![ROC-AUC, Kalibrasyon, Karmaşıklık Matrisi ve Volcano Grafiği](./assets/screenshots/02_roc_auc_confusion_matrix_volcano.png)
 
 ### 3. Harici Kaggle, NCBI GEO ve Golub Çok Merkezli Benchmark Konsolu (`112.259 Vaka / 7 Bağımsız Kohort`)
-![Harici Kaggle ve GEO Benchmark Konsolu](./assets/screenshots/screenshot_4.png)
+![Harici Kaggle ve GEO Benchmark Konsolu](./assets/screenshots/04_multi_cohort_benchmark_overview.png)
 
 ### 4. Tüm Veri Setleri Karşılaştırma Grafiği ve Konsolide Benchmark Tablosu
-![Tüm Veri Setleri Karşılaştırma Grafiği](./assets/screenshots/screenshot_5.png)
+![Tüm Veri Setleri Karşılaştırma Grafiği](./assets/screenshots/05_cross_dataset_comparison_chart.png)
 
 ### 5. Toplu CSV Kohort Taraması, Wasserstein Popülasyon Kayması (Drift) ve Triyaj Modülü (`Tarama ve Rapor`)
-![Toplu CSV Kohort Taraması ve Popülasyon Kayması](./assets/screenshots/screenshot_3.png)
+![Toplu CSV Kohort Taraması ve Popülasyon Kayması](./assets/screenshots/03_batch_cohort_screening_drift.png)
 
 ---
 

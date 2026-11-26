@@ -36,19 +36,19 @@ Early and accurate differentiation of leukemia subtypes (**Acute Myeloid Leukemi
 ## 📸 Application Screenshots (Clinical Interface Gallery)
 
 ### 1. Main Clinical Decision Support Dashboard, Bio-Fingerprint Radar & Local SHAP (`Diagnosis & XAI`)
-![Main Clinical Decision Support Dashboard & Local SHAP](./assets/screenshots/screenshot_1.png)
+![Main Clinical Decision Support Dashboard & Local SHAP](./assets/screenshots/01_clinical_dashboard_shap_xai.png)
 
 ### 2. Multi-Class ROC-AUC, Calibration Curve, Confusion Matrix & Volcano Plot (`Model & Biostatistics`)
-![ROC-AUC, Calibration, Confusion Matrix & Volcano Plot](./assets/screenshots/screenshot_2.png)
+![ROC-AUC, Calibration, Confusion Matrix & Volcano Plot](./assets/screenshots/02_roc_auc_confusion_matrix_volcano.png)
 
 ### 3. External Kaggle, NCBI GEO & Golub Multi-Center Benchmark Console (`112,259 Samples / 7 Cohorts`)
-![External Kaggle & GEO Benchmark Console](./assets/screenshots/screenshot_4.png)
+![External Kaggle & GEO Benchmark Console](./assets/screenshots/04_multi_cohort_benchmark_overview.png)
 
 ### 4. Cross-Cohort Performance Comparison Chart & Consolidated Benchmark Table
-![Cross-Cohort Performance Comparison Chart](./assets/screenshots/screenshot_5.png)
+![Cross-Cohort Performance Comparison Chart](./assets/screenshots/05_cross_dataset_comparison_chart.png)
 
 ### 5. Batch CSV Cohort Screening, Wasserstein Population Drift & Triage Module (`Screening & Reporting`)
-![Batch CSV Cohort Screening & Drift Module](./assets/screenshots/screenshot_3.png)
+![Batch CSV Cohort Screening & Drift Module](./assets/screenshots/03_batch_cohort_screening_drift.png)
 
 ---
 
