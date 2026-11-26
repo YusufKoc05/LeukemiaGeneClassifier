@@ -92,7 +92,7 @@ Hematolojik malignitelerin başında gelen löseminin alt tiplerinin (**Akut Miy
 ## 🗂️ Proje Klasör ve Modül Yapısı
 
 ```text
-cancer_gene_classification/
+leukemia-gene-classification-ai/
 ├── core/
 │   ├── config.py             # Klinik referans aralıkları, SI birimleri, DSÖ 2022 / ELN 2022 eşikleri
 │   ├── dataset.py            # Veri okuma, uç değer temizliği (winsorization), StandardScaler, %80/%20 ayrım
@@ -126,8 +126,8 @@ cancer_gene_classification/
 ### 1. Depoyu Klonlayın ve Bağımlılıkları Yükleyin
 
 ```bash
-git clone https://github.com/YusufKoc05/cancer_gene_classification.git
-cd cancer_gene_classification
+git clone https://github.com/YusufKoc05/leukemia-gene-classification-ai.git
+cd leukemia-gene-classification-ai
 pip install -r requirements.txt
 ```
 

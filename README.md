@@ -93,7 +93,7 @@ All datasets used in this study are publicly available, anonymized biomedical co
 ## 🗂️ Project Architecture
 
 ```text
-cancer_gene_classification/
+leukemia-gene-classification-ai/
 ├── core/
 │   ├── config.py             # Clinical reference intervals, SI units, WHO 2022 / ELN 2022 thresholds
 │   ├── dataset.py            # Data ingestion, winsorization, StandardScaler, 80/20 stratified split
@@ -127,8 +127,8 @@ cancer_gene_classification/
 ### 1. Clone the Repository & Install Dependencies
 
 ```bash
-git clone https://github.com/YusufKoc05/cancer_gene_classification.git
-cd cancer_gene_classification
+git clone https://github.com/YusufKoc05/leukemia-gene-classification-ai.git
+cd leukemia-gene-classification-ai
 pip install -r requirements.txt
 ```
 
@@ -179,7 +179,7 @@ This project was developed under the **TÜBİTAK 2209-A University Students Rese
   title        = {OncoVision AI: Multimodal Biomarker and Gene Expression Classification of Leukemia Subtypes with Explainable Artificial Intelligence},
   year         = {2026},
   publisher    = {GitHub},
-  url          = {https://github.com/YusufKoc05/cancer_gene_classification},
+  url          = {https://github.com/YusufKoc05/leukemia-gene-classification-ai},
   note         = {T{\"U}B{\.I}TAK 2209-A Research Project (1919B012605978)}
 }
 ```
